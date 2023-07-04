@@ -1,6 +1,6 @@
 # Curso de Banco de Dados PostgreSQL
 
-Este repositório contém os projetos e exercícios realizados durante o meu curso de Banco de Dados PostgreSQL. Durante o curso, explorei uma variedade de conceitos e técnicas para a manipulação eficiente de dados no PostgreSQL.
+Este repositório contém os projetos e exercícios realizados durante o meu curso de Banco de Dados PostgreSQL da IA EXPERT ACADEMY. Durante o curso, explorei uma variedade de conceitos e técnicas para a manipulação eficiente de dados no PostgreSQL.
 
 
 ## Tópicos Abordados
