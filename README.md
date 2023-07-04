@@ -36,7 +36,6 @@ Durante o curso, criei vários repositórios relacionados aos exercícios e proj
 ![image](https://github.com/Caydenyx/Curso-PostgreeSQL/assets/130865313/eac57dbf-bcaa-404b-9168-7124da0d75e1)
 
 
-Este projeto está licenciado sob a [licença MIT](link_para_licenca). Sinta-se livre para utilizá-lo de acordo com os termos da licença.
 
 ## Contato
 
