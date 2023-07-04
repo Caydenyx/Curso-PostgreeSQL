@@ -22,19 +22,19 @@ Durante o curso, criei vários repositórios relacionados aos exercícios e proj
 1. [backup_pedido]: Repositório criado para testar o processo de backup e restore de um banco de dados.
 
 2. [COMANDS]: Exercícios práticos guiados para a criação de funções, triggers e domínios.
-3. ![image](https://github.com/Caydenyx/Curso-PostgreeSQL/assets/130865313/8887cef9-18ff-4a1b-a504-082158e6ac0b)
+![image](https://github.com/Caydenyx/Curso-PostgreeSQL/assets/130865313/8887cef9-18ff-4a1b-a504-082158e6ac0b)
 
 
-4. [script.sql]: Base do curso, contendo várias atividades práticas relacionadas aos tópicos abordados. Algumas atividades podem conter erros, pois ainda estou em fase inicial de aprendizado.
-5. ![image](https://github.com/Caydenyx/Curso-PostgreeSQL/assets/130865313/fe4e9e87-14ae-40ee-8a01-c6ef9e906549)
+3. [script.sql]: Base do curso, contendo várias atividades práticas relacionadas aos tópicos abordados. Algumas atividades podem conter erros, pois ainda estou em fase inicial de aprendizado.
+ ![image](https://github.com/Caydenyx/Curso-PostgreeSQL/assets/130865313/fe4e9e87-14ae-40ee-8a01-c6ef9e906549)
 
 
-6. [scriptbb.sql]:scriptbb.sql Script de um exercício que envolveu a criação, modelagem e implementação de um banco de dados do zero. Nesse caso, o banco de dados representa uma biblioteca de TI.
-7. ![image](https://github.com/Caydenyx/Curso-PostgreeSQL/assets/130865313/d669517e-4c01-4191-b3c5-25e4c641bae1)
-
-
+4. [scriptbb.sql]: Script de um PROJETO que envolveu a criação, modelagem e implementação de um banco de dados do zero. Nesse caso, o banco de dados representa uma biblioteca de TI.
+![image](https://github.com/Caydenyx/Curso-PostgreeSQL/assets/130865313/d669517e-4c01-4191-b3c5-25e4c641bae1)
 
 ![image](https://github.com/Caydenyx/Curso-PostgreeSQL/assets/130865313/8ab8a54a-1602-4b36-b082-614e8c36102b)
+![image](https://github.com/Caydenyx/Curso-PostgreeSQL/assets/130865313/eac57dbf-bcaa-404b-9168-7124da0d75e1)
+
 
 Este projeto está licenciado sob a [licença MIT](link_para_licenca). Sinta-se livre para utilizá-lo de acordo com os termos da licença.
 
